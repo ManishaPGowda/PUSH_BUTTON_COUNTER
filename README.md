@@ -41,4 +41,8 @@ Classroom/student counters with temperature display.
 Industrial and agricultural monitoring systems.
 A base model for IoT-enabled data logging projects.
 
+OUTPUT : 
+![WhatsApp Image 2025-08-19 at 20 55 39_01649b21](https://github.com/user-attachments/assets/1af43442-983f-4d20-8ebc-d7335723d7e9)
+
+
   
